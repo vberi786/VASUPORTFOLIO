@@ -95,7 +95,7 @@ function NavBar() {
             <Nav.Item>
               <Nav.Link
                 href="/contact"
-                target="_blank"
+                
                 rel="noreferrer"
               >
                 
@@ -107,7 +107,7 @@ function NavBar() {
             <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/"
-                target="_blank"
+                
                 className="fork-btn-inner"
               >
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
